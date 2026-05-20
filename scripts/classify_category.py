@@ -29,6 +29,7 @@ PREPROCESSED_DIR = Path(__file__).parent.parent / "preprocessed"
 CATEGORIES = {
     "tops":        "a photo of a top, t-shirt, shirt, blouse, or sweater",
     "pants":       "a photo of pants, jeans, trousers, or shorts",
+    "skirts":      "a photo of a skirt, mini skirt, midi skirt, or maxi skirt",
     "shoes":       "a photo of shoes, sneakers, boots, or sandals",
     "outerwear":   "a photo of a jacket, coat, hoodie, or outerwear",
     "accessories": "a photo of an accessory, bag, hat, scarf, or belt",
