@@ -1,0 +1,18 @@
+# Данные — генерируются скриптами
+raw/
+processed/
+preprocessed/
+data/
+
+# Виртуальное окружение
+.venv/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
